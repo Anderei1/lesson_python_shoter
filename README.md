@@ -1,2 +1,2 @@
-# lesson_python_shoter
+# lesson_python_shooter
 shooter game
